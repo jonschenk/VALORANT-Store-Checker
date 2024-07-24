@@ -66,7 +66,7 @@ Create a `config.json` file in the root directory of the project with the follow
 
 ### Skin UUIDs
 
-A comprehensive list of VALORANT skin UUIDs can be found [here](https://gist.github.com/clap-dev/fdef6cf3a689a6da2cef7da90c36adfb).
+A comprehensive list of VALORANT skin UUIDs can be found [here](https://gist.github.com/clap-dev/fdef6cf3a689a6da2cef7da90c36adfb). Make sure you are selecting the base variation of the skin and no "Level #" variants.
 
 ### Usage
 
