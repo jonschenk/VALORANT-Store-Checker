@@ -76,10 +76,9 @@ python store_checker.py
 ```
 
 Key commands:
-```
-r: Manually refresh the store
-esc: end the script
-```
+`r`: Manually refresh the store
+`esc`: end the script
+
 
 ### Demo Screenshot
 <img src="IMG_3966.png" alt="Screenshot" width="300"/>
