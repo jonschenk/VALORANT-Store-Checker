@@ -75,9 +75,10 @@ Run the script:
 python store_checker.py
 ```
 
-Key commands:
-`r`: Manually refresh the store
-`esc`: end the script
+Key Commands:
+
+- **`r`** Manually refresh the store
+- **`esc`** End the script
 
 
 ### Demo Screenshot
