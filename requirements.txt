@@ -1,0 +1,6 @@
+schedule
+pynput
+valorantstore
+json
+pygetwindow
+smtplib
